@@ -1,0 +1,1 @@
+lo visto en la clase anterior fueron todos los comandos de git y las funciones de cada uno
